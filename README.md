@@ -1,2 +1,2 @@
 # Temperature-Converter
-i have made Temperature Converter Using HTML , CSS &amp; JAVASCRIPT.
+Created a simple Temperature Converter Using HTML, CSS & JAVASCRIPT.
